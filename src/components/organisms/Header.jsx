@@ -7,10 +7,11 @@ import { format } from "date-fns";
 const Header = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
-  const navigation = [
+const navigation = [
     { name: "Dashboard", href: "/", icon: "LayoutDashboard" },
     { name: "Attendance", href: "/attendance", icon: "CheckSquare" },
     { name: "Members", href: "/members", icon: "Users" },
+    { name: "Leave Requests", href: "/leave-requests", icon: "Calendar" },
     { name: "Reports", href: "/reports", icon: "FileText" },
     { name: "Settings", href: "/settings", icon: "Settings" },
   ];
