@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { toast } from 'react-toastify'
-import { Button } from '@/components/atoms/Button'
+import Button from '@/components/atoms/Button'
 import Badge from '@/components/atoms/Badge'
 import { Card } from '@/components/atoms/Card'
 import ApperIcon from '@/components/ApperIcon'
