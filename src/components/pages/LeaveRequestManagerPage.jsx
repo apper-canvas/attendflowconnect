@@ -3,9 +3,9 @@ import { useNavigate } from "react-router-dom";
 import { toast } from 'react-toastify'
 import Button from '@/components/atoms/Button'
 import Badge from '@/components/atoms/Badge'
-import { Card } from '@/components/atoms/Card'
+import Card from '@/components/atoms/Card'
 import ApperIcon from '@/components/ApperIcon'
-import Loading from "@/components/ui/Loading";
+import Loading from '@/components/ui/Loading'
 import Error from "@/components/ui/Error";
 import { leaveRequestService } from "@/services/api/leaveRequestService";
 import { format } from "date-fns";
