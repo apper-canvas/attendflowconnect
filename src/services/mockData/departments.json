@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "name": "Engineering",
+    "managerId": "1"
+  },
+  {
+    "Id": 2,
+    "name": "Marketing",
+    "managerId": "2"
+  },
+  {
+    "Id": 3,
+    "name": "HR",
+    "managerId": "4"
+  },
+  {
+    "Id": 4,
+    "name": "Sales",
+    "managerId": "5"
+  }
+]

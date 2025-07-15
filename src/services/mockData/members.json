@@ -1,0 +1,66 @@
+[
+  {
+    "Id": 1,
+    "name": "John Smith",
+    "email": "john.smith@company.com",
+    "department": "Engineering",
+    "joinDate": "2024-01-15T08:00:00Z",
+    "status": "active"
+  },
+  {
+    "Id": 2,
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@company.com",
+    "department": "Marketing",
+    "joinDate": "2024-02-01T08:00:00Z",
+    "status": "active"
+  },
+  {
+    "Id": 3,
+    "name": "Mike Davis",
+    "email": "mike.davis@company.com",
+    "department": "Engineering",
+    "joinDate": "2024-01-20T08:00:00Z",
+    "status": "active"
+  },
+  {
+    "Id": 4,
+    "name": "Emma Wilson",
+    "email": "emma.wilson@company.com",
+    "department": "HR",
+    "joinDate": "2024-03-01T08:00:00Z",
+    "status": "active"
+  },
+  {
+    "Id": 5,
+    "name": "David Brown",
+    "email": "david.brown@company.com",
+    "department": "Sales",
+    "joinDate": "2024-02-15T08:00:00Z",
+    "status": "active"
+  },
+  {
+    "Id": 6,
+    "name": "Lisa Chen",
+    "email": "lisa.chen@company.com",
+    "department": "Engineering",
+    "joinDate": "2024-01-10T08:00:00Z",
+    "status": "active"
+  },
+  {
+    "Id": 7,
+    "name": "James Miller",
+    "email": "james.miller@company.com",
+    "department": "Marketing",
+    "joinDate": "2024-03-15T08:00:00Z",
+    "status": "active"
+  },
+  {
+    "Id": 8,
+    "name": "Ashley Taylor",
+    "email": "ashley.taylor@company.com",
+    "department": "HR",
+    "joinDate": "2024-02-20T08:00:00Z",
+    "status": "active"
+  }
+]
